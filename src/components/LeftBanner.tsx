@@ -1,5 +1,5 @@
 import { useTypewriter, Cursor } from "react-simple-typewriter";
-import { FaFacebookF, FaYoutube, FaLinkedinIn, FaReact, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedinIn, FaReact, FaInstagram, FaGithub } from "react-icons/fa";
 import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 import { FadeIn } from "./FadeIn";
 

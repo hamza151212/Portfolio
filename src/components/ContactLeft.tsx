@@ -1,4 +1,4 @@
-import { FaFacebookF, FaYoutube, FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";
 import { contactImg } from "../assets";
 import { BsInstagram } from "react-icons/bs";
 

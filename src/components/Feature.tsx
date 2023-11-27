@@ -1,6 +1,6 @@
-import { AiFillAlert, AiFillAppstore } from "react-icons/ai";
-import { FaMobile, FaGlobe, FaPython, FaEthereum, FaFileWord } from "react-icons/fa";
-import { SiProgress, SiAntdesign, SiAdobe } from "react-icons/si";
+
+import { FaMobile, FaPython, FaEthereum, FaFileWord } from "react-icons/fa";
+import { SiAdobe } from "react-icons/si";
 import Card from "./Card";
 import Title from "./Title";
 import { FadeIn } from "./FadeIn";
